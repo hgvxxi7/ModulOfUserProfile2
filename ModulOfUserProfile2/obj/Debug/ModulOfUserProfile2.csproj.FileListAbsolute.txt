@@ -1,0 +1,29 @@
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.engine.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.engine.api.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\Mono.Cecil.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\ModulOfUserProfile2.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\ModulOfUserProfile2.pdb
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\WebDriver.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.pdb
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.xml
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\WebDriver.xml
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Debug\ModulOfUserProfile2.dll
+C:\Users\A. U. Shvaiko\documents\visual studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Debug\ModulOfUserProfile2.pdb
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.engine.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.engine.api.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\Mono.Cecil.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\ModulOfUserProfile2.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\ModulOfUserProfile2.pdb
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\WebDriver.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.pdb
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\nunit.framework.xml
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Debug\WebDriver.xml
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Debug\ModulOfUserProfile2.csprojResolveAssemblyReference.cache
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Debug\ModulOfUserProfile2.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Debug\ModulOfUserProfile2.pdb
