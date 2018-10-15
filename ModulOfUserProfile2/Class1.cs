@@ -7,14 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ModulOfUserProfile
+namespace ModulOfUserProfile2
 {
     [TestFixture]
     // атрибут NUnita или указатель на тестовый сют
     public class EmptyClass
     //
     {
-        private object driver;
+        //private object driver;
 
         // [Test] // атрибут nUnita указывающий на конкретный метод (функцию)
         //public void site_header_is_on_home_page() // тестовая функиця
@@ -25,12 +25,28 @@ namespace ModulOfUserProfile
         //button.Click();
         //browser.Close();
         //}
+        IWebDriver browser;
+
+//------------------------------------------------------------------------------------------------
+        [OneTimeSetUp]
+        public void openBrowser()
+        {
+            browser = new ChromeDriver();
+        }
+
+//-----------------------------------------------------------------------------------------------
+
+        [SetUp]
+        public void goToURL()
+        {
+            browser.Navigate().GoToUrl("https://www.olx.ua/account/?ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index");
+        }
+
+//-----------------------------------------------------------------------------------------------
 
         [Test] // атрибут nUnita указывающий на конкретный метод (функцию)
         public void registered_users_verifine() // тестовая функиця
         {
-            IWebDriver browser = new ChromeDriver();
-            browser.Navigate().GoToUrl("https://www.olx.ua/account/?ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index");
 
             IWebElement registrated_user_email = browser.FindElement(By.CssSelector("#userEmail"));
             registrated_user_email.SendKeys("hgvxxi7@gmail.com");
@@ -48,6 +64,8 @@ namespace ModulOfUserProfile
 
             Assert.True(warningMassege.Displayed);
         }
+
+//-------------------------------------------------------------------------------------------------
 
         [Test]
         public void new_user_registration()
@@ -71,6 +89,8 @@ namespace ModulOfUserProfile
             submit.Click();
 
         }
+
+//------------------------------------------------------------------------------------------------   
 
         [Test]
         
@@ -103,8 +123,6 @@ namespace ModulOfUserProfile
                 IWebElement userEmailPhoneRegister = browser.FindElement(By.Id("userEmailPhoneRegister"));
                 userEmailPhoneRegister.SendKeys(emails[i]);
 
-                browser.Close();
-
                 //IWebElement warningMassege = browser.FindElement(By.CssSelector("#se_emailError > div > label"));
 
                 //style="display: inline;"
@@ -112,6 +130,14 @@ namespace ModulOfUserProfile
 
                 //Assert.False(warningMassege.Displayed); // Если валидатор не сработал то - ОК
             }
+        }
+
+//-------------------------------------------------------------------------------------------------
+
+        [OneTimeTearDown]
+        public void browserClose()
+        {
+            browser.Close();
         }
     }
 }
