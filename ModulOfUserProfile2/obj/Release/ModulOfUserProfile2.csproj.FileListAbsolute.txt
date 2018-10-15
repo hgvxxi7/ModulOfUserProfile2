@@ -1,5 +1,4 @@
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\NUnit3.TestAdapter.dll
-C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\NUnit3.TestAdapter.pdb
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\nunit.engine.dll
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\nunit.engine.api.dll
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\Mono.Cecil.dll
@@ -12,3 +11,7 @@ C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulO
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\WebDriver.xml
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Release\ModulOfUserProfile2.dll
 C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Release\ModulOfUserProfile2.pdb
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\Arteym\Documents\Visual Studio 2015\Projects\ModulOfUserProfile2\ModulOfUserProfile2\obj\Release\ModulOfUserProfile2.csprojResolveAssemblyReference.cache

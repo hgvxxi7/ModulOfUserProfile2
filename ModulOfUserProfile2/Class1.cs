@@ -94,7 +94,7 @@ namespace ModulOfUserProfile2
 
         [Test]
         
-        public void email_confermation()
+        public void email_confirmation()
         {
             /*List<string> l1;
             l1 = new List<string>();
